@@ -19,7 +19,7 @@
     }?>
 
     <?php
-    if ($counter = 0) { ?>
+    if ($counter == 0) { ?>
         <!--  Writing data to a file  -->
         <?php
         $suckers = fopen("suckers.txt", "a");
