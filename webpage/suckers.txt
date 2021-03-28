@@ -1,0 +1,8 @@
+222;mg;2222;MasterCard
+333;mg;223322;Visa
+sdfsds;me;223asdsa322;Visa
+sdfsds;me;dasdad;Visa
+sdfsds;me;ssss;Visa
+sdfsds;me;ssss;Visa
+sdfsds;me;ssss;Visa
+sdfsds;me;ssss;Visa
